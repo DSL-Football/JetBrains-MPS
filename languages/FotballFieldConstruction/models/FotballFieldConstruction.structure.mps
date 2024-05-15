@@ -30,7 +30,7 @@
   <node concept="1TIwiD" id="4V7zgwrI$JB">
     <property role="EcuMT" value="5676660921288248295" />
     <property role="TrG5h" value="AbstractBuilderCommand" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyi" id="4V7zgwrI$L2" role="1TKVEl">
       <property role="IQ2nx" value="5676660921288248386" />
       <property role="TrG5h" value="row" />

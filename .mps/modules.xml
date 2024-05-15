@@ -2,10 +2,10 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/FotballFieldConstruction.sandbox/FotballFieldConstruction.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FootballDSL.sandbox/FootballDSL.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FootballDSL/FootballDSL.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/FotballFieldConstruction/FotballFieldConstruction.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/Movements.sandbox/Movements.sandbox.msd" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/Movements/Movements.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/OperationsAndOr/OperationsAndOr.mpl" folder="" />
     </projectModules>
   </component>
 </project>
