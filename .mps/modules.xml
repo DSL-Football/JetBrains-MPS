@@ -4,6 +4,8 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/FotballFieldConstruction.sandbox/FotballFieldConstruction.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/FotballFieldConstruction/FotballFieldConstruction.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Movements.sandbox/Movements.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Movements/Movements.mpl" folder="" />
     </projectModules>
   </component>
 </project>
